@@ -8,7 +8,9 @@
 
 - Python > 3.10.12
 	- requests > 2.31.0
-	- BeautifulSoup4 > 4.12.2 
+	- BeautifulSoup4 > 4.12.2
+	- Selenium > 4.16.0
+	- time 
 	- CSV
 - VScode
 
